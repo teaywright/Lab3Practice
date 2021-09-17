@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Lab3Practice
+
+Project Team Members: 
 Aiden Wick
-=======
-i
-THESE ARE CONFLICTING CHANGES!!!!!!! 
-# Lab3Practice
->>>>>>> main
+Joshua Richardson
