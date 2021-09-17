@@ -1,1 +1,2 @@
-# Lab3Practice
+Project Team Members: 
+Joshua Richardson
