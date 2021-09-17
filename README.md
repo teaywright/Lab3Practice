@@ -1,1 +1,3 @@
-# Lab3Practice
+Project Team Members:
+Tea Wright
+
