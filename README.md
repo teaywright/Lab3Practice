@@ -1,7 +1,7 @@
 Project Team Members: 
 Uri Soltz
 Aiden Wick
-Daniel Harris
 Joshua Richardson
+Daniel Harris
 Tea Wright
 Yanlv Zhang
